@@ -10,7 +10,7 @@
 
 Hi! My name's Zak & I'm a dev who's worked on startups, fast-growth series D, Fortune 500, and FAANG (Amazon dev) codebases. 
 - Develops software across industries, teams, & has experience at just about every scale in which the software life cycle is utilized
-= Self-taught college dropout with a love for sharing the knowledge 
+- Self-taught college dropout with a love for sharing the knowledge 
 - All-in on Web 3
 
 
