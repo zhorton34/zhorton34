@@ -5,13 +5,18 @@
 
 [![Twitter Followers Count Icon](https://img.shields.io/twitter/follow/cleancodestudio?label=Followers&style=social)](https://twitter.com/intent/follow?screen_name=cleancodestudio)
 
+
 <p style='text-align:center' align='center'>
 
-Hi! My name's Zak & I'm a dev who's worked on startups, fast-growth series D, Fortune 500, and FAANG (Amazon dev) codebases. Developing software across industries, teams, & at just about every scale. 
+Hi! My name's Zak & I'm a dev who's worked on startups, fast-growth series D, Fortune 500, and FAANG (Amazon dev) codebases. 
+- Develops software across industries, teams, & has experience at just about every scale in which the software life cycle is utilized
+= Self-taught college dropout with a love for sharing the knowledge 
+- All-in on Web 3
 
-All-in on Web 3.
 
-Sr. Dev at Anaconda Inc.building out the world's most popular data science platform alongside a thriving open source community that empowers students, professionals, & enterprises alike to innovate in groundbreaking real-world business impacting ways thru the power of data science and continually emerging web 3 technologies like that of Machine Learning/Artificial Intelligence.
+[![Zak’s github stats](https://github-readme-stats.vercel.app/api?username=zhorton34)](https://github.com/zhorton34)
+
+Sr. Dev at Anaconda Inc.building out the world's most popular data science platform alongside a thriving open source community that empowers students, professionals, & enterprises alike to innovate in groundbreaking real-world business impacting ways thru the power of emerging Web 3 technologies like that of Machine Learning/Artificial Intelligence solutions.
 
 </p>  
 
@@ -25,10 +30,9 @@ Sr. Dev at Anaconda Inc.building out the world's most popular data science platf
 	<a href="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/wechat-qr-code.png"><img src="imgs/wechat.svg" alt="微信"></a>
 </center> -->
 
-[![Zak’s github stats](https://github-readme-stats.vercel.app/api?username=zhorton34)](https://github.com/zhorton34)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhorton34)](https://github.com/zhorton34)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhorton34&layout=compact)](https://github.com/zhorton34)
 
 
 ---
