@@ -54,19 +54,19 @@ Sr. Dev at Anaconda Inc.building out the world's most popular data science platf
 
 ---
 
-[Clean Code Studio](https://cleancode.studio)
-[Follow @cleancodestudio on Twitter](https://twitter.com/cleancodestudio)
-[Follow @cleancodestudio on YouTube](https://youtube.com/c/cleancodestudio)
-[Follow @cleancodestudio on TikTok](https://tiktok.com/@cleancodestudio)
-[Follow @cleancodestudio on Facebook](https://facebook.com/cleancodestudio)
-[Follow @cleancodestudio on Instagram](https://instagram.com/cleancodestudio)
-[Follow @cleancodestudio on LinkedIn](https://linkedin.com/company/cleancodestudio)
-[Follow @cleancodestudio on Reddit](https://reddit.com/r/cleancodestudio)
-[Follow @cleancodestudio on Dev.to](https://dev.to/cleancodestudio)
-[Follow @cleancodestudio on Stack Overflow](https://stackoverflow.com/users/8541350/clean-code-studio)
-[Follow @cleancodestudio packages on npm](https://npmjs.com/~zhorton999)
-[Follow @cleancodestudio packages on packagist](https://packagist.org/packages/clean-code-studio)
-[Star @cleancodestudio on Github](https://github.com/zhorton34)
+- [Clean Code Studio](https://cleancode.studio)
+- [Follow @cleancodestudio on Twitter](https://twitter.com/cleancodestudio)
+- [Follow @cleancodestudio on YouTube](https://youtube.com/c/cleancodestudio)
+- [Follow @cleancodestudio on TikTok](https://tiktok.com/@cleancodestudio)
+- [Follow @cleancodestudio on Facebook](https://facebook.com/cleancodestudio)
+- [Follow @cleancodestudio on Instagram](https://instagram.com/cleancodestudio)
+- [Follow @cleancodestudio on LinkedIn](https://linkedin.com/company/cleancodestudio)
+- [Follow @cleancodestudio on Reddit](https://reddit.com/r/cleancodestudio)
+- [Follow @cleancodestudio on Dev.to](https://dev.to/cleancodestudio)
+- [Follow @cleancodestudio on Stack Overflow](https://stackoverflow.com/users/8541350/clean-code-studio)
+- [Follow @cleancodestudio packages on npm](https://npmjs.com/~zhorton999)
+- [Follow @cleancodestudio packages on packagist](https://packagist.org/packages/clean-code-studio)
+- [Star @cleancodestudio on Github](https://github.com/zhorton34)
 
 
 ---
