@@ -66,7 +66,6 @@ Sr. Dev at Anaconda Inc.building out the world's most popular data science platf
 - [Follow @cleancodestudio on Stack Overflow](https://stackoverflow.com/users/8541350/clean-code-studio)
 - [Follow @cleancodestudio packages on npm](https://npmjs.com/~zhorton999)
 - [Follow @cleancodestudio packages on packagist](https://packagist.org/packages/clean-code-studio)
-- [Star @cleancodestudio on Github](https://github.com/zhorton34)
 
 
 ---
