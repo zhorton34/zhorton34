@@ -50,12 +50,9 @@ Sr. Dev at Anaconda Inc.building out the world's most popular data science platf
 - ☕️ Career Advice
 - ☕️ Developer Memes
 
-<small>Shiny button, Fancy 𝗡𝗲𝘄𝘀𝗹𝗲𝘁𝘁𝗲𝗿 👇, Juicy Dev Tips...wanna join?</small> 
-
 [![Join Clean Code Studio Newsletter](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f7hwc3k4pzedr59fnr9r.png)](https://cleancodestudio.paperform.co/)
 
-<small>(Discover [50+ pages] of my personal FAANG interview notes!)</small>
-
+---
 
 [Clean Code Studio](https://cleancode.studio)
 [Follow @cleancodestudio on Twitter](https://twitter.com/cleancodestudio)
