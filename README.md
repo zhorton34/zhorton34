@@ -1,8 +1,8 @@
 
+[![LinkedIn](https://img.shields.io/badge/-Follow%20on%20LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=zak-horton)
 [![Github](https://img.shields.io/github/followers/zhorton34?label=Follow&style=social)](https://github.com/zhorton34)
 [![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCq0m4ebGqurYQLwD-1aYsvg?label=Subscribers&style=social)](https://www.youtube.com/channel/UCq0m4ebGqurYQLwD-1aYsvg?sub_confirmation=1) 
 [![Views](https://img.shields.io/youtube/channel/views/UCq0m4ebGqurYQLwD-1aYsvg?label=Views&style=social)](https://www.youtube.com/channel/UCq0m4ebGqurYQLwD-1aYsvg?sub_confirmation=1)
-
 [![Twitter Followers Count Icon](https://img.shields.io/twitter/follow/cleancodestudio?label=Followers&style=social)](https://twitter.com/intent/follow?screen_name=cleancodestudio)
 
 
