@@ -77,5 +77,3 @@ Feel free to reach out!**
 I'm always down to hop on a call with any #codenewbies out there looking for some advice from a fellow self-taught engineer who's been through that journey and made it to some upper levels of tech without a degree. As a 28-day college dropout I can relate to how the information overload can knock you off course on your journey and make it feel like a daunting task to become a full-time dev - but I assure you, **No degree is needed to become a full-time dev** 😉 
 
 If I'm able to help others to better define that path towards becoming a full-time software dev, then I'd love to do so - feel free to reach out via anyone of my socials. I'm always down to hop on a call with #codenewbie's looking to break into the dev career as well as those experienced #webdev's looking to break into the #bigtech dev career. Can't make it an easy journey, but hopefully - if you give me the time - I can at the very least help to simplify the path so you're re-assured that your'e headed in the right direction within your career path.
-
-![image](https://github.com/user-attachments/assets/e0a53633-fb33-410c-b2f8-94d08cbd4d95)
